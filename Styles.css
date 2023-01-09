@@ -1,0 +1,221 @@
+body {
+    background-color: #fff;
+    font-family: Ubuntu;
+    text-shadow: none;
+    height: auto;
+}
+h1 {
+    font-family: Ubuntu;
+    color: #fff;
+}
+h6 {
+    color: #fff;
+}
+
+/* navbar */
+.nav-logo{
+    height: 1px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.navbar {
+    margin: 0;
+    
+}
+
+
+
+/* title */
+
+.title-box{
+    background-color: #a2c4c9;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.title {
+    margin: 1%;
+}
+
+#line {
+    width: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #fff;
+    background-color: #fff;
+    padding: 0.1%;
+}
+
+
+.title-logo {
+    width: 100px;
+}
+
+
+
+
+
+/* pros */
+
+#pros {
+    background-color: #fff;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.pros-title {
+    margin: 10%;
+    margin-bottom: -4px;
+    color: rgb(54, 54, 54);
+}
+
+.pros-text{
+    color: rgb(112, 112, 112);
+}
+
+.pros-icon{
+    color: rgb(54, 54, 54);
+}
+.pros-icon:hover{
+    color: #fff;
+    background-color: #a2c4c9;
+    border-radius: 100%;
+    padding: 15px;
+    margin: -15px;
+}
+
+/* reviews */
+
+.review-pfp {
+    border-radius: 100%;
+    height: 8rem;
+    
+    
+}
+
+.review-text{
+    color: #fff;
+    /* color: rgb(54, 54, 54); */
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.review-name {
+    color: rgb(54, 54, 54);
+    
+}
+ 
+.review {
+    text-align: center;
+    background-color: #a2c4c9;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.carousel-item{
+    height: 18%;
+    
+} 
+
+.carousel-control-next{
+    color: #fff;
+}
+
+
+.fa-chevron-left{
+    color: #fff;
+}
+.fa-chevron-right{
+    color: #fff;    
+}
+
+
+
+/* buy cards */
+
+#buy-cards {
+    background-color: #fff;
+
+    padding-top: 12%;
+    padding-bottom: 12%;
+}
+
+.card-body {
+    background-color: #a2c4c9;
+    border-radius: 20px;
+}
+
+.card {
+    border: none;
+}
+
+hr { 
+    margin-top: none;
+    width: 100%;
+    color: #fff;
+    background-color: #fff;
+    padding: 0.1%;
+}
+
+.btn-light {
+    color: rgb(54, 54, 54);
+}
+
+.btn-light:hover {
+    background-color: #a2c4c9;
+    color: #fff;
+}
+
+#bronze {
+    color: #fff;
+}
+
+#silver {
+    color: #fff;
+}
+
+#gold {
+    color: #fff;
+
+}
+.price{
+    color: #fff;
+}
+
+li {
+    text-align: left;
+    color: #fff;
+    font-size: 12px;
+    font-family: Ubuntu;
+}
+ul {
+    text-align: left;
+}
+.fa-regular {
+    font-weight: bolder;
+}
+.no {
+    color: rgb(153, 153, 153);
+}
+
+
+/* FOOTER */
+
+#footer { 
+    background-color: #a2c4c9;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    
+}
+
+.fa-copyright {
+    margin-top: 2%;
+}
+
+.contact:hover {
+    color: #fff;
+}
